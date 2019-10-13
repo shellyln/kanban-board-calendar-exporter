@@ -1,0 +1,23 @@
+{
+  "name": "kanban-board-calendar-exporter",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Export kanban-board-app tasks as iCal (*.ics) format with AWS Lambda + S3 infrastructure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "dependencies": {
+    "aws-sdk": "^2.548.0"
+  },
+  "author": "shellyln",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shellyln/kanban-board-calendar-exporter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shellyln/kanban-board-calendar-exporter/issues"
+  },
+  "homepage": "https://github.com/shellyln/kanban-board-calendar-exporter#readme"
+}
